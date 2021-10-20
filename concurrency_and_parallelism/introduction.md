@@ -14,5 +14,10 @@ single threaded attitude would say:
 5. wait in the queue ("dead time")
 6. order ice cream
 
+![concurrency vs parallelism](https://user-images.githubusercontent.com/4787598/138174874-ce95f442-2e16-40b1-8654-74158780f266.jpg)
+
+
+
 *** To be continued... ***
+
 
